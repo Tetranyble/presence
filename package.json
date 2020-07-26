@@ -1,0 +1,26 @@
+{
+  "name": "presence",
+  "version": "0.0.1",
+  "description": "pensuh e-learning management platform",
+  "main": "presence.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tetranyble/presence.git"
+  },
+  "keywords": [
+    "e-learning",
+    "training",
+    "management",
+    "screencapture",
+    "sharedscreen"
+  ],
+  "author": "Ekenekiso Ugbanawaji Leonard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tetranyble/presence/issues"
+  },
+  "homepage": "https://github.com/Tetranyble/presence#readme"
+}
